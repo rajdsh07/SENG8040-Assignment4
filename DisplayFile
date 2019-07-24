@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="style.css" >
+</head>
+
+<body>
+    <table width="100%" border="1" style="border-collapse:collapse;">
+        <thead>
+            <tr>
+                <th><strong>Seller Name</strong></th>
+                <th><strong>Address</strong></th>
+                <th><strong>City</strong></th>
+                <th><strong>Phone Number</strong></th>
+                <th><strong>Email Id</strong></th>
+                <th><strong>Vehicle Make</strong></th>
+                <th><strong>Vehicle Model</strong></th>
+                <th><strong>Vehicle Year</strong></th>
+            </tr>
+        </thead>
+        <tbody>
